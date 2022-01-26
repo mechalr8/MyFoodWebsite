@@ -1,0 +1,40 @@
+#home{
+    height: 270px;
+    padding: 4px 6px;
+}
+
+#home h1{
+    font-size: 30px;
+}
+
+#home p{
+    font-size: 13px;
+}
+
+#home::before{
+    height: 370px;;
+}
+
+#navbar{
+    flex-direction: column;
+}
+
+#navbar ul li a{
+    padding: 3px 20px;
+    font-size: 15px;
+}
+
+#services{
+    flex-direction: column;
+}
+
+.btn {
+    padding: 4px 8px;
+    border: 2px solid white;
+    background-color: #da1313;
+    border-radius: 20px;
+    margin: 26px;
+    color: white;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
