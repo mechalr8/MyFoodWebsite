@@ -66,7 +66,7 @@
 #home::before{
     content: "";
     position: absolute;
-    background: url("../IMG/bg1.jpg") no-repeat center center/cover;
+    background: url("IMG/bg1.jpg") no-repeat center center/cover;
     top: 0px;
     left: 0px;
     height: 400px;
